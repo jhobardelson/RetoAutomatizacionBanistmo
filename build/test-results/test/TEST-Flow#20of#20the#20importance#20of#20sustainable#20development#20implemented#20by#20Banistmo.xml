@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Flow of the importance of sustainable development implemented by Banistmo" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-06T01:31:06" hostname="QV-2655" time="31.853">
+  <properties/>
+  <testcase name="recycle and sustainable development" classname="Flow of the importance of sustainable development implemented by Banistmo" time="31.853"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 12833
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+may 05, 2023 8:31:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
